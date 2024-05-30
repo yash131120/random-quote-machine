@@ -13,5 +13,7 @@ User Story: I can press a button to tweet out a quote.
 Final Project URL: https://codepen.io/htndwtth-the-scripter/pen/PovWOqZ
 
 ![image](https://github.com/yash131120/https---github.com-yash131120-random-quote-machine/assets/139432375/2e8edd5c-8b33-437c-a548-854bb77b3a73)
+<br/>
+<br/>
 
 ![image](https://github.com/yash131120/https---github.com-yash131120-random-quote-machine/assets/139432375/f9693bdf-816a-4c54-b9f9-bcc46e59dea9)
